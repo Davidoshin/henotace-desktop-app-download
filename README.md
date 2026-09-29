@@ -8,11 +8,11 @@ Official download repository for the **Henotace Business Retail Desktop** applic
 
 Download the official release directly from our GitHub Releases page:
 
-👉 **[Download Latest Desktop App (v17.3.10)](https://github.com/Davidoshin/henotace-desktop-app-download/releases/latest)**
+👉 **[Download Installer (hb-17.3.10.exe)](https://github.com/Davidoshin/henotace-desktop-app-download/releases/latest/download/hb-17.3.10.exe)**
 
-| Platform | Format | Recommended Version | Download Link |
+| Platform | Format | Recommended Version | Direct Download |
 | :--- | :--- | :--- | :--- |
-| **Windows** (64-bit) | `.exe` (NSIS Installer) | `v17.3.10` | [hb-17.3.10.exe](https://github.com/Davidoshin/henotace-desktop-app-download/releases/latest) |
+| **Windows** (64-bit) | `.exe` (NSIS Installer) | `v17.3.10` | [Download hb-17.3.10.exe](https://github.com/Davidoshin/henotace-desktop-app-download/releases/latest/download/hb-17.3.10.exe) |
 
 ---
 
